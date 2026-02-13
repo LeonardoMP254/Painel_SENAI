@@ -114,3 +114,10 @@ Interação dinâmica com HTML
 Criação de interfaces simples e funcionais
 
 Organização visual de resultados em painéis
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por: **Leonardo**
+Atividade acadêmica de JavaScript 💙
